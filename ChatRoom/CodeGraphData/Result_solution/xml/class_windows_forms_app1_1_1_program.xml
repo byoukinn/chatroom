@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<doxygen xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="compound.xsd" version="1.8.6">
+  <compounddef id="class_windows_forms_app1_1_1_program" kind="class" prot="public">
+    <compoundname>WindowsFormsApp1::Program</compoundname>
+      <sectiondef kind="private-static-func">
+      <memberdef kind="function" id="class_windows_forms_app1_1_1_program_1aa0d7542c58f0c92d098418ed079a6275" prot="private" static="yes" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type>void</type>
+        <definition>static void WindowsFormsApp1.Program.Main</definition>
+        <argsstring>()</argsstring>
+        <name>Main</name>
+        <briefdescription>
+<para>应用程序的主入口点。 </para>        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/BK/source/repos/WindowsFormsApp1/WindowsFormsApp1/Program.cs" line="15" column="1" bodyfile="C:/Users/BK/source/repos/WindowsFormsApp1/WindowsFormsApp1/Program.cs" bodystart="15" bodyend="20"/>
+      </memberdef>
+      </sectiondef>
+    <briefdescription>
+    </briefdescription>
+    <detaileddescription>
+    </detaileddescription>
+    <location file="C:/Users/BK/source/repos/WindowsFormsApp1/WindowsFormsApp1/Program.cs" line="10" column="1" bodyfile="C:/Users/BK/source/repos/WindowsFormsApp1/WindowsFormsApp1/Program.cs" bodystart="9" bodyend="21"/>
+    <listofallmembers>
+      <member refid="class_windows_forms_app1_1_1_program_1aa0d7542c58f0c92d098418ed079a6275" prot="private" virt="non-virtual"><scope>WindowsFormsApp1::Program</scope><name>Main</name></member>
+    </listofallmembers>
+  </compounddef>
+</doxygen>

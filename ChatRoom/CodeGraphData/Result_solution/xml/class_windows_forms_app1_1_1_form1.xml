@@ -1,0 +1,235 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<doxygen xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="compound.xsd" version="1.8.6">
+  <compounddef id="class_windows_forms_app1_1_1_form1" kind="class" prot="public">
+    <compoundname>WindowsFormsApp1::Form1</compoundname>
+    <basecompoundref prot="public" virt="non-virtual">Form</basecompoundref>
+      <sectiondef kind="private-attrib">
+      <memberdef kind="variable" id="class_windows_forms_app1_1_1_form1_1a21ba0a87addcd5cb5a369c22d79b6b86" prot="private" static="no" mutable="no">
+        <type>System.ComponentModel.IContainer</type>
+        <definition>System.ComponentModel.IContainer WindowsFormsApp1.Form1.components</definition>
+        <argsstring></argsstring>
+        <name>components</name>
+        <initializer>= null</initializer>
+        <briefdescription>
+<para>必需的设计器变量。 </para>        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/BK/source/repos/WindowsFormsApp1/WindowsFormsApp1/Form1.Designer.cs" line="13" column="1" bodyfile="C:/Users/BK/source/repos/WindowsFormsApp1/WindowsFormsApp1/Form1.Designer.cs" bodystart="13" bodyend="-1"/>
+        <referencedby refid="class_windows_forms_app1_1_1_form1_1a794a40bb1ca26b382a8c51f6f026d823" compoundref="_form1_8_designer_8cs" startline="19" endline="26">WindowsFormsApp1.Form1.Dispose</referencedby>
+      </memberdef>
+      <memberdef kind="variable" id="class_windows_forms_app1_1_1_form1_1a684949bee235ca18525d95d1d3559adc" prot="private" static="no" mutable="no">
+        <type>System.Windows.Forms.RichTextBox</type>
+        <definition>System.Windows.Forms.RichTextBox WindowsFormsApp1.Form1.richTextBox2</definition>
+        <argsstring></argsstring>
+        <name>richTextBox2</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/BK/source/repos/WindowsFormsApp1/WindowsFormsApp1/Form1.Designer.cs" line="154" column="1" bodyfile="C:/Users/BK/source/repos/WindowsFormsApp1/WindowsFormsApp1/Form1.Designer.cs" bodystart="154" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="variable" id="class_windows_forms_app1_1_1_form1_1a734fe157b1c58c2103ef159b444e15fb" prot="private" static="no" mutable="no">
+        <type>System.Windows.Forms.TableLayoutPanel</type>
+        <definition>System.Windows.Forms.TableLayoutPanel WindowsFormsApp1.Form1.tableLayoutPanel1</definition>
+        <argsstring></argsstring>
+        <name>tableLayoutPanel1</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/BK/source/repos/WindowsFormsApp1/WindowsFormsApp1/Form1.Designer.cs" line="155" column="1" bodyfile="C:/Users/BK/source/repos/WindowsFormsApp1/WindowsFormsApp1/Form1.Designer.cs" bodystart="155" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="variable" id="class_windows_forms_app1_1_1_form1_1afd555197c9958880160f3dbbf3c04ca1" prot="private" static="no" mutable="no">
+        <type>System.Windows.Forms.Button</type>
+        <definition>System.Windows.Forms.Button WindowsFormsApp1.Form1.sendButton</definition>
+        <argsstring></argsstring>
+        <name>sendButton</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/BK/source/repos/WindowsFormsApp1/WindowsFormsApp1/Form1.Designer.cs" line="156" column="1" bodyfile="C:/Users/BK/source/repos/WindowsFormsApp1/WindowsFormsApp1/Form1.Designer.cs" bodystart="156" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="variable" id="class_windows_forms_app1_1_1_form1_1a84fd180680ff154fdedb54fa402c15ed" prot="private" static="no" mutable="no">
+        <type>System.Windows.Forms.FlowLayoutPanel</type>
+        <definition>System.Windows.Forms.FlowLayoutPanel WindowsFormsApp1.Form1.flowLayoutPanel1</definition>
+        <argsstring></argsstring>
+        <name>flowLayoutPanel1</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/BK/source/repos/WindowsFormsApp1/WindowsFormsApp1/Form1.Designer.cs" line="157" column="1" bodyfile="C:/Users/BK/source/repos/WindowsFormsApp1/WindowsFormsApp1/Form1.Designer.cs" bodystart="157" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="variable" id="class_windows_forms_app1_1_1_form1_1ad4addd8f8c7bbc3e094ddbdde3104a25" prot="private" static="no" mutable="no">
+        <type>System.Windows.Forms.Label</type>
+        <definition>System.Windows.Forms.Label WindowsFormsApp1.Form1.label1</definition>
+        <argsstring></argsstring>
+        <name>label1</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/BK/source/repos/WindowsFormsApp1/WindowsFormsApp1/Form1.Designer.cs" line="158" column="1" bodyfile="C:/Users/BK/source/repos/WindowsFormsApp1/WindowsFormsApp1/Form1.Designer.cs" bodystart="158" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="variable" id="class_windows_forms_app1_1_1_form1_1aaa3e86ccc32a41542b946ad76cb999fb" prot="private" static="no" mutable="no">
+        <type>System.Windows.Forms.TableLayoutPanel</type>
+        <definition>System.Windows.Forms.TableLayoutPanel WindowsFormsApp1.Form1.tableLayoutPanel2</definition>
+        <argsstring></argsstring>
+        <name>tableLayoutPanel2</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/BK/source/repos/WindowsFormsApp1/WindowsFormsApp1/Form1.Designer.cs" line="159" column="1" bodyfile="C:/Users/BK/source/repos/WindowsFormsApp1/WindowsFormsApp1/Form1.Designer.cs" bodystart="159" bodyend="-1"/>
+      </memberdef>
+      </sectiondef>
+      <sectiondef kind="public-func">
+      <memberdef kind="function" id="class_windows_forms_app1_1_1_form1_1af92589760ac0b9d75dfb869dd579a4b9" prot="public" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type></type>
+        <definition>WindowsFormsApp1.Form1.Form1</definition>
+        <argsstring>()</argsstring>
+        <name>Form1</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/BK/source/repos/WindowsFormsApp1/WindowsFormsApp1/Form1.cs" line="15" column="1" bodyfile="C:/Users/BK/source/repos/WindowsFormsApp1/WindowsFormsApp1/Form1.cs" bodystart="15" bodyend="18"/>
+        <references refid="class_windows_forms_app1_1_1_form1_1ac7f02d341461e25973ddc2983a33175d" compoundref="_form1_8_designer_8cs" startline="34" endline="151">WindowsFormsApp1.Form1.InitializeComponent</references>
+      </memberdef>
+      </sectiondef>
+      <sectiondef kind="private-func">
+      <memberdef kind="function" id="class_windows_forms_app1_1_1_form1_1a19f82fbee0e9eaed5a8d017cc73a4caf" prot="private" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type>void</type>
+        <definition>void WindowsFormsApp1.Form1.sendButton_Click</definition>
+        <argsstring>(object sender, EventArgs e)</argsstring>
+        <name>sendButton_Click</name>
+        <param>
+          <type>object</type>
+          <declname>sender</declname>
+        </param>
+        <param>
+          <type>EventArgs</type>
+          <declname>e</declname>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/BK/source/repos/WindowsFormsApp1/WindowsFormsApp1/Form1.cs" line="20" column="1" bodyfile="C:/Users/BK/source/repos/WindowsFormsApp1/WindowsFormsApp1/Form1.cs" bodystart="20" bodyend="23"/>
+      </memberdef>
+      <memberdef kind="function" id="class_windows_forms_app1_1_1_form1_1ac7f02d341461e25973ddc2983a33175d" prot="private" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type>void</type>
+        <definition>void WindowsFormsApp1.Form1.InitializeComponent</definition>
+        <argsstring>()</argsstring>
+        <name>InitializeComponent</name>
+        <briefdescription>
+<para>设计器支持所需的方法 - 不要修改 使用代码编辑器修改此方法的内容。 </para>        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/BK/source/repos/WindowsFormsApp1/WindowsFormsApp1/Form1.Designer.cs" line="34" column="1" bodyfile="C:/Users/BK/source/repos/WindowsFormsApp1/WindowsFormsApp1/Form1.Designer.cs" bodystart="34" bodyend="151"/>
+        <referencedby refid="class_windows_forms_app1_1_1_form1_1af92589760ac0b9d75dfb869dd579a4b9" compoundref="_form1_8cs" startline="15" endline="18">WindowsFormsApp1.Form1.Form1</referencedby>
+      </memberdef>
+      </sectiondef>
+      <sectiondef kind="protected-func">
+      <memberdef kind="function" id="class_windows_forms_app1_1_1_form1_1a794a40bb1ca26b382a8c51f6f026d823" prot="protected" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type>override void</type>
+        <definition>override void WindowsFormsApp1.Form1.Dispose</definition>
+        <argsstring>(bool disposing)</argsstring>
+        <name>Dispose</name>
+        <param>
+          <type>bool</type>
+          <declname>disposing</declname>
+        </param>
+        <briefdescription>
+<para>清理所有正在使用的资源。 </para>        </briefdescription>
+        <detaileddescription>
+<para><parameterlist kind="param"><parameteritem>
+<parameternamelist>
+<parametername>disposing</parametername>
+</parameternamelist>
+<parameterdescription>
+<para>如果应释放托管资源，为 true；否则为 false。</para></parameterdescription>
+</parameteritem>
+</parameterlist>
+</para>        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/BK/source/repos/WindowsFormsApp1/WindowsFormsApp1/Form1.Designer.cs" line="19" column="1" bodyfile="C:/Users/BK/source/repos/WindowsFormsApp1/WindowsFormsApp1/Form1.Designer.cs" bodystart="19" bodyend="26"/>
+        <references refid="class_windows_forms_app1_1_1_form1_1a21ba0a87addcd5cb5a369c22d79b6b86" compoundref="_form1_8_designer_8cs" startline="13">WindowsFormsApp1.Form1.components</references>
+      </memberdef>
+      </sectiondef>
+    <briefdescription>
+    </briefdescription>
+    <detaileddescription>
+    </detaileddescription>
+    <inheritancegraph>
+      <node id="1">
+        <label>Form</label>
+      </node>
+      <node id="0">
+        <label>WindowsFormsApp1.Form1</label>
+        <link refid="class_windows_forms_app1_1_1_form1"/>
+        <childnode refid="1" relation="public-inheritance">
+        </childnode>
+      </node>
+    </inheritancegraph>
+    <collaborationgraph>
+      <node id="3">
+        <label>Form</label>
+      </node>
+      <node id="4">
+        <label>System</label>
+      </node>
+      <node id="2">
+        <label>WindowsFormsApp1.Form1</label>
+        <link refid="class_windows_forms_app1_1_1_form1"/>
+        <childnode refid="3" relation="public-inheritance">
+        </childnode>
+        <childnode refid="4" relation="usage">
+          <edgelabel>label1</edgelabel>
+          <edgelabel>richTextBox2</edgelabel>
+          <edgelabel>components</edgelabel>
+          <edgelabel>sendButton</edgelabel>
+          <edgelabel>flowLayoutPanel1</edgelabel>
+          <edgelabel>tableLayoutPanel1</edgelabel>
+          <edgelabel>tableLayoutPanel2</edgelabel>
+        </childnode>
+      </node>
+    </collaborationgraph>
+    <location file="C:/Users/BK/source/repos/WindowsFormsApp1/WindowsFormsApp1/Form1.cs" line="14" column="1" bodyfile="C:/Users/BK/source/repos/WindowsFormsApp1/WindowsFormsApp1/Form1.cs" bodystart="13" bodyend="24"/>
+    <listofallmembers>
+      <member refid="class_windows_forms_app1_1_1_form1_1a21ba0a87addcd5cb5a369c22d79b6b86" prot="private" virt="non-virtual"><scope>WindowsFormsApp1::Form1</scope><name>components</name></member>
+      <member refid="class_windows_forms_app1_1_1_form1_1a794a40bb1ca26b382a8c51f6f026d823" prot="protected" virt="non-virtual"><scope>WindowsFormsApp1::Form1</scope><name>Dispose</name></member>
+      <member refid="class_windows_forms_app1_1_1_form1_1a84fd180680ff154fdedb54fa402c15ed" prot="private" virt="non-virtual"><scope>WindowsFormsApp1::Form1</scope><name>flowLayoutPanel1</name></member>
+      <member refid="class_windows_forms_app1_1_1_form1_1af92589760ac0b9d75dfb869dd579a4b9" prot="public" virt="non-virtual"><scope>WindowsFormsApp1::Form1</scope><name>Form1</name></member>
+      <member refid="class_windows_forms_app1_1_1_form1_1ac7f02d341461e25973ddc2983a33175d" prot="private" virt="non-virtual"><scope>WindowsFormsApp1::Form1</scope><name>InitializeComponent</name></member>
+      <member refid="class_windows_forms_app1_1_1_form1_1ad4addd8f8c7bbc3e094ddbdde3104a25" prot="private" virt="non-virtual"><scope>WindowsFormsApp1::Form1</scope><name>label1</name></member>
+      <member refid="class_windows_forms_app1_1_1_form1_1a684949bee235ca18525d95d1d3559adc" prot="private" virt="non-virtual"><scope>WindowsFormsApp1::Form1</scope><name>richTextBox2</name></member>
+      <member refid="class_windows_forms_app1_1_1_form1_1afd555197c9958880160f3dbbf3c04ca1" prot="private" virt="non-virtual"><scope>WindowsFormsApp1::Form1</scope><name>sendButton</name></member>
+      <member refid="class_windows_forms_app1_1_1_form1_1a19f82fbee0e9eaed5a8d017cc73a4caf" prot="private" virt="non-virtual"><scope>WindowsFormsApp1::Form1</scope><name>sendButton_Click</name></member>
+      <member refid="class_windows_forms_app1_1_1_form1_1a734fe157b1c58c2103ef159b444e15fb" prot="private" virt="non-virtual"><scope>WindowsFormsApp1::Form1</scope><name>tableLayoutPanel1</name></member>
+      <member refid="class_windows_forms_app1_1_1_form1_1aaa3e86ccc32a41542b946ad76cb999fb" prot="private" virt="non-virtual"><scope>WindowsFormsApp1::Form1</scope><name>tableLayoutPanel2</name></member>
+    </listofallmembers>
+  </compounddef>
+</doxygen>

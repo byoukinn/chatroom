@@ -1,0 +1,17 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<doxygen xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="compound.xsd" version="1.8.6">
+  <compounddef id="dir_53a690c32ee336bbe28e8b792f4f56f3" kind="dir">
+    <compoundname>C:/Users/BK/source/repos/WindowsFormsApp1/WindowsFormsApp1</compoundname>
+    <innerdir refid="dir_c9642b6ae3394e7286dc93e31d6acdf9">C:/Users/BK/source/repos/WindowsFormsApp1/WindowsFormsApp1/Properties</innerdir>
+    <innerfile refid="_form1_8cs">Form1.cs</innerfile>
+    <innerfile refid="_form1_8_designer_8cs">Form1.Designer.cs</innerfile>
+    <innerfile refid="_form2_8cs">Form2.cs</innerfile>
+    <innerfile refid="_form2_8_designer_8cs">Form2.Designer.cs</innerfile>
+    <innerfile refid="_program_8cs">Program.cs</innerfile>
+    <briefdescription>
+    </briefdescription>
+    <detaileddescription>
+    </detaileddescription>
+    <location file="C:/Users/BK/source/repos/WindowsFormsApp1/WindowsFormsApp1/"/>
+  </compounddef>
+</doxygen>

@@ -1,0 +1,76 @@
+﻿using System;
+using System.Windows.Forms;
+using System.Runtime.InteropServices;
+
+namespace ChatRoom
+{
+<<<<<<< HEAD:ChatRoom/MyApplication/View/ChatForm.cs
+	public partial class ChatForm : MVC.View
+=======
+	public partial class ChatView : MVC.View
+>>>>>>> 3a7f400561d635df9a0f23929769363d11fede52:ChatRoom/MyApplication/View/ChatView.cs
+	{
+		public ChatView()
+		{
+			InitializeComponent();
+		}
+
+		private void Chat_close_Click(object sender, EventArgs e)
+		{
+			Application.Exit();
+		}
+
+		private void Chat_minimum_Click(object sender, EventArgs e)
+		{
+			this.WindowState = FormWindowState.Minimized;
+		}
+
+		[DllImport("user32.dll")]
+		public static extern bool ReleaseCapture();
+
+		[DllImport("user32.dll")]
+		public static extern bool SendMessage(IntPtr hwnd, int wMsg, int wParam, int lParam);
+
+		private const int VM_NCLBUTTONDOWN = 0XA1;//定义鼠标左键按下
+		private const int HTCAPTION = 2;
+
+<<<<<<< HEAD:ChatRoom/MyApplication/View/ChatForm.cs
+		public override string Name => throw new NotImplementedException();
+
+		/// <summary>
+		/// 鼠标按下
+		/// </summary>
+		/// <param name="sender"></param>
+		/// <param name="e"></param>
+		private void MoveWindow_By_MouseDown(object sender, MouseEventArgs e)
+=======
+        public override string Name => throw new NotImplementedException();
+
+        /// <summary>
+        /// 鼠标按下
+        /// </summary>
+        /// <param name="sender"></param>
+        /// <param name="e"></param>
+        private void MoveWindow_By_MouseDown(object sender, MouseEventArgs e)
+>>>>>>> 3a7f400561d635df9a0f23929769363d11fede52:ChatRoom/MyApplication/View/ChatView.cs
+		{
+			//为当前应用程序释放鼠标捕获
+			ReleaseCapture();
+			//发送消息 让系统误以为在标题栏上按下鼠标
+			SendMessage((IntPtr)this.Handle, VM_NCLBUTTONDOWN, HTCAPTION, 0);
+		}
+
+<<<<<<< HEAD:ChatRoom/MyApplication/View/ChatForm.cs
+		public override void HandleEvent(string eventName, object data)
+		{
+			throw new NotImplementedException();
+		}
+	}
+=======
+        public override void HandleEvent(string eventName, object data)
+        {
+            throw new NotImplementedException();
+        }
+    }
+>>>>>>> 3a7f400561d635df9a0f23929769363d11fede52:ChatRoom/MyApplication/View/ChatView.cs
+}

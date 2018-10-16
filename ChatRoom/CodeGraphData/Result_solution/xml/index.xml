@@ -1,0 +1,94 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<doxygenindex xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="index.xsd" version="1.8.6">
+  <compound refid="class_windows_forms_app1_1_1_form1" kind="class"><name>WindowsFormsApp1::Form1</name>
+    <member refid="class_windows_forms_app1_1_1_form1_1a21ba0a87addcd5cb5a369c22d79b6b86" kind="variable"><name>components</name></member>
+    <member refid="class_windows_forms_app1_1_1_form1_1a684949bee235ca18525d95d1d3559adc" kind="variable"><name>richTextBox2</name></member>
+    <member refid="class_windows_forms_app1_1_1_form1_1a734fe157b1c58c2103ef159b444e15fb" kind="variable"><name>tableLayoutPanel1</name></member>
+    <member refid="class_windows_forms_app1_1_1_form1_1afd555197c9958880160f3dbbf3c04ca1" kind="variable"><name>sendButton</name></member>
+    <member refid="class_windows_forms_app1_1_1_form1_1a84fd180680ff154fdedb54fa402c15ed" kind="variable"><name>flowLayoutPanel1</name></member>
+    <member refid="class_windows_forms_app1_1_1_form1_1ad4addd8f8c7bbc3e094ddbdde3104a25" kind="variable"><name>label1</name></member>
+    <member refid="class_windows_forms_app1_1_1_form1_1aaa3e86ccc32a41542b946ad76cb999fb" kind="variable"><name>tableLayoutPanel2</name></member>
+    <member refid="class_windows_forms_app1_1_1_form1_1af92589760ac0b9d75dfb869dd579a4b9" kind="function"><name>Form1</name></member>
+    <member refid="class_windows_forms_app1_1_1_form1_1a19f82fbee0e9eaed5a8d017cc73a4caf" kind="function"><name>sendButton_Click</name></member>
+    <member refid="class_windows_forms_app1_1_1_form1_1ac7f02d341461e25973ddc2983a33175d" kind="function"><name>InitializeComponent</name></member>
+    <member refid="class_windows_forms_app1_1_1_form1_1a794a40bb1ca26b382a8c51f6f026d823" kind="function"><name>Dispose</name></member>
+  </compound>
+  <compound refid="class_windows_forms_app1_1_1_form2" kind="class"><name>WindowsFormsApp1::Form2</name>
+    <member refid="class_windows_forms_app1_1_1_form2_1a21a2acb5516af2fa931fdd350e4d8316" kind="variable"><name>components</name></member>
+    <member refid="class_windows_forms_app1_1_1_form2_1af410f670260b2b360b7abbd5cad765f3" kind="function"><name>Form2</name></member>
+    <member refid="class_windows_forms_app1_1_1_form2_1a7f2d0170ae8fec6e780900bb6326637c" kind="function"><name>Dispose</name></member>
+    <member refid="class_windows_forms_app1_1_1_form2_1a83ad51eb8224d246396ca82f0f00767b" kind="function"><name>InitializeComponent</name></member>
+  </compound>
+  <compound refid="class_windows_forms_app1_1_1_program" kind="class"><name>WindowsFormsApp1::Program</name>
+    <member refid="class_windows_forms_app1_1_1_program_1aa0d7542c58f0c92d098418ed079a6275" kind="function"><name>Main</name></member>
+  </compound>
+  <compound refid="class_windows_forms_app1_1_1_properties_1_1_resources" kind="class"><name>WindowsFormsApp1::Properties::Resources</name>
+    <member refid="class_windows_forms_app1_1_1_properties_1_1_resources_1a1e8ddbebed10ddb8eb4e211101cdc309" kind="variable"><name>resourceMan</name></member>
+    <member refid="class_windows_forms_app1_1_1_properties_1_1_resources_1a12fd2db5bd5cd9c8e31c13f2420818b7" kind="variable"><name>resourceCulture</name></member>
+    <member refid="class_windows_forms_app1_1_1_properties_1_1_resources_1af65b6cd64fb731453248d479bc08ee94" kind="property"><name>ResourceManager</name></member>
+    <member refid="class_windows_forms_app1_1_1_properties_1_1_resources_1a0b4bc6c68ba0faf0b2b3b4745b094d4a" kind="property"><name>Culture</name></member>
+    <member refid="class_windows_forms_app1_1_1_properties_1_1_resources_1a4fa5c0fd99d6a456e83dbd93d3789a49" kind="function"><name>Resources</name></member>
+  </compound>
+  <compound refid="class_windows_forms_app1_1_1_properties_1_1_settings" kind="class"><name>WindowsFormsApp1::Properties::Settings</name>
+    <member refid="class_windows_forms_app1_1_1_properties_1_1_settings_1a0fbbb767d73efe116c0f76872fd3e666" kind="variable"><name>defaultInstance</name></member>
+    <member refid="class_windows_forms_app1_1_1_properties_1_1_settings_1a1a9ce30497eecd2b6bea566b258387af" kind="property"><name>Default</name></member>
+  </compound>
+  <compound refid="namespace_system" kind="namespace"><name>System</name>
+  </compound>
+  <compound refid="namespace_system_1_1_collections_1_1_generic" kind="namespace"><name>System::Collections::Generic</name>
+  </compound>
+  <compound refid="namespace_system_1_1_component_model" kind="namespace"><name>System::ComponentModel</name>
+  </compound>
+  <compound refid="namespace_system_1_1_data" kind="namespace"><name>System::Data</name>
+  </compound>
+  <compound refid="namespace_system_1_1_drawing" kind="namespace"><name>System::Drawing</name>
+  </compound>
+  <compound refid="namespace_system_1_1_linq" kind="namespace"><name>System::Linq</name>
+  </compound>
+  <compound refid="namespace_system_1_1_reflection" kind="namespace"><name>System::Reflection</name>
+  </compound>
+  <compound refid="namespace_system_1_1_runtime_1_1_compiler_services" kind="namespace"><name>System::Runtime::CompilerServices</name>
+  </compound>
+  <compound refid="namespace_system_1_1_runtime_1_1_interop_services" kind="namespace"><name>System::Runtime::InteropServices</name>
+  </compound>
+  <compound refid="namespace_system_1_1_text" kind="namespace"><name>System::Text</name>
+  </compound>
+  <compound refid="namespace_system_1_1_threading_1_1_tasks" kind="namespace"><name>System::Threading::Tasks</name>
+  </compound>
+  <compound refid="namespace_system_1_1_windows_1_1_forms" kind="namespace"><name>System::Windows::Forms</name>
+  </compound>
+  <compound refid="namespace_windows_forms_app1" kind="namespace"><name>WindowsFormsApp1</name>
+  </compound>
+  <compound refid="namespace_windows_forms_app1_1_1_properties" kind="namespace"><name>WindowsFormsApp1::Properties</name>
+  </compound>
+  <compound refid="_form1_8cs" kind="file"><name>Form1.cs</name>
+  </compound>
+  <compound refid="_form1_8_designer_8cs" kind="file"><name>Form1.Designer.cs</name>
+  </compound>
+  <compound refid="_form2_8cs" kind="file"><name>Form2.cs</name>
+  </compound>
+  <compound refid="_form2_8_designer_8cs" kind="file"><name>Form2.Designer.cs</name>
+  </compound>
+  <compound refid="_program_8cs" kind="file"><name>Program.cs</name>
+  </compound>
+  <compound refid="_assembly_info_8cs" kind="file"><name>AssemblyInfo.cs</name>
+  </compound>
+  <compound refid="_resources_8_designer_8cs" kind="file"><name>Resources.Designer.cs</name>
+  </compound>
+  <compound refid="_settings_8_designer_8cs" kind="file"><name>Settings.Designer.cs</name>
+  </compound>
+  <compound refid="dir_e5faf4203c0aa81da599b9b930006054" kind="dir"><name>C:/Users/BK</name>
+  </compound>
+  <compound refid="dir_c9642b6ae3394e7286dc93e31d6acdf9" kind="dir"><name>C:/Users/BK/source/repos/WindowsFormsApp1/WindowsFormsApp1/Properties</name>
+  </compound>
+  <compound refid="dir_a9e981f31c094fb70671ac20a5d916b9" kind="dir"><name>C:/Users/BK/source/repos</name>
+  </compound>
+  <compound refid="dir_a56aa6ce43b86ef0ae12a33341ec3182" kind="dir"><name>C:/Users/BK/source</name>
+  </compound>
+  <compound refid="dir_d522931ffa1371640980b621734a4381" kind="dir"><name>C:/Users</name>
+  </compound>
+  <compound refid="dir_53a690c32ee336bbe28e8b792f4f56f3" kind="dir"><name>C:/Users/BK/source/repos/WindowsFormsApp1/WindowsFormsApp1</name>
+  </compound>
+  <compound refid="dir_e79fe7d5b78bfc8c43de37045044b209" kind="dir"><name>C:/Users/BK/source/repos/WindowsFormsApp1</name>
+  </compound>
+</doxygenindex>
